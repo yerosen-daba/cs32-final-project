@@ -1,4 +1,4 @@
-# Music Byy
+# Music Byy can be found at www.musicbyy.com](https://www.musicbyy.com
 
 **Music Byy** is a full-stack web application designed to calculate the musical "vibe" compatibility between two users based on their favorite songs. 
 
