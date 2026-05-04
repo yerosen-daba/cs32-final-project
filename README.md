@@ -21,20 +21,17 @@ The backend is built with **FastAPI** in Python, and the frontend is built using
 
 ### Running Locally
 1. Clone the repository to your local machine.
-2. Navigate to the project directory:
-   ```bash
-   cd music-match
-   ```
-3. Install the lightweight Python dependencies:
+   
+2. Install the lightweight Python dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Start the FastAPI backend server:
+3. Start the FastAPI backend server:
    ```bash
    uvicorn app:app --reload
    ```
    *The server will start on `http://localhost:8000`.*
-5. Open the `index.html` file in any web browser to view the frontend interface. It will automatically connect to your local backend.
+4. Open the `index.html` file in any web browser to view the frontend interface. It will automatically connect to your local backend.
 
 ### Deployment Architecture
 The live version of this app is deployed as follows:
